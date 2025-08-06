@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\bin\Debug\net9.0\BirthdayTest.exe
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\bin\Debug\net9.0\BirthdayTest.deps.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\bin\Debug\net9.0\BirthdayTest.runtimeconfig.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\bin\Debug\net9.0\BirthdayTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\bin\Debug\net9.0\BirthdayTest.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\obj\Debug\net9.0\BirthdayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\obj\Debug\net9.0\BirthdayTest.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\obj\Debug\net9.0\BirthdayTest.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\obj\Debug\net9.0\BirthdayTest.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\obj\Debug\net9.0\BirthdayTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\obj\Debug\net9.0\refint\BirthdayTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\obj\Debug\net9.0\BirthdayTest.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\obj\Debug\net9.0\BirthdayTest.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\BirthdayTest\obj\Debug\net9.0\ref\BirthdayTest.dll

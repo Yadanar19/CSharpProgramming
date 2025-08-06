@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\bin\Debug\net9.0\ColorListTest.exe
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\bin\Debug\net9.0\ColorListTest.deps.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\bin\Debug\net9.0\ColorListTest.runtimeconfig.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\bin\Debug\net9.0\ColorListTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\bin\Debug\net9.0\ColorListTest.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\obj\Debug\net9.0\ColorListTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\obj\Debug\net9.0\ColorListTest.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\obj\Debug\net9.0\ColorListTest.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\obj\Debug\net9.0\ColorListTest.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\obj\Debug\net9.0\ColorListTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\obj\Debug\net9.0\refint\ColorListTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\obj\Debug\net9.0\ColorListTest.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\obj\Debug\net9.0\ColorListTest.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\ColorListTest\obj\Debug\net9.0\ref\ColorListTest.dll

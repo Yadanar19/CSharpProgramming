@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\bin\Debug\net9.0\ExpressionsTest.exe
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\bin\Debug\net9.0\ExpressionsTest.deps.json
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\bin\Debug\net9.0\ExpressionsTest.runtimeconfig.json
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\bin\Debug\net9.0\ExpressionsTest.dll
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\bin\Debug\net9.0\ExpressionsTest.pdb
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\obj\Debug\net9.0\ExpressionsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\obj\Debug\net9.0\ExpressionsTest.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\obj\Debug\net9.0\ExpressionsTest.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\obj\Debug\net9.0\ExpressionsTest.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\obj\Debug\net9.0\ExpressionsTest.dll
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\obj\Debug\net9.0\refint\ExpressionsTest.dll
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\obj\Debug\net9.0\ExpressionsTest.pdb
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\obj\Debug\net9.0\ExpressionsTest.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\School\Courses\CIS132\Exercise\PE03_Hung\ExpressionsTest\obj\Debug\net9.0\ref\ExpressionsTest.dll

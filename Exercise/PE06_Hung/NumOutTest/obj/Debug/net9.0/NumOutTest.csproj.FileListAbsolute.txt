@@ -1,0 +1,14 @@
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\bin\Debug\net9.0\NumOutTest.exe
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\bin\Debug\net9.0\NumOutTest.deps.json
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\bin\Debug\net9.0\NumOutTest.runtimeconfig.json
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\bin\Debug\net9.0\NumOutTest.dll
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\bin\Debug\net9.0\NumOutTest.pdb
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\obj\Debug\net9.0\NumOutTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\obj\Debug\net9.0\NumOutTest.AssemblyInfoInputs.cache
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\obj\Debug\net9.0\NumOutTest.AssemblyInfo.cs
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\obj\Debug\net9.0\NumOutTest.csproj.CoreCompileInputs.cache
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\obj\Debug\net9.0\NumOutTest.dll
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\obj\Debug\net9.0\refint\NumOutTest.dll
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\obj\Debug\net9.0\NumOutTest.pdb
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\obj\Debug\net9.0\NumOutTest.genruntimeconfig.cache
+C:\Users\maiya\Downloads\CIS132\Exercise\PE06_Hung\NumOutTest\obj\Debug\net9.0\ref\NumOutTest.dll

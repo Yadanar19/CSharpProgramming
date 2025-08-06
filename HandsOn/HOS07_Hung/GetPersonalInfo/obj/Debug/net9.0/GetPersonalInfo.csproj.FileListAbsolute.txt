@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\bin\Debug\net9.0\GetPersonalInfo.exe
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\bin\Debug\net9.0\GetPersonalInfo.deps.json
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\bin\Debug\net9.0\GetPersonalInfo.runtimeconfig.json
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\bin\Debug\net9.0\GetPersonalInfo.dll
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\bin\Debug\net9.0\GetPersonalInfo.pdb
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\obj\Debug\net9.0\GetPersonalInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\obj\Debug\net9.0\GetPersonalInfo.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\obj\Debug\net9.0\GetPersonalInfo.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\obj\Debug\net9.0\GetPersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\obj\Debug\net9.0\GetPersonalInfo.dll
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\obj\Debug\net9.0\refint\GetPersonalInfo.dll
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\obj\Debug\net9.0\GetPersonalInfo.pdb
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\obj\Debug\net9.0\GetPersonalInfo.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS07_Hung\GetPersonalInfo\obj\Debug\net9.0\ref\GetPersonalInfo.dll

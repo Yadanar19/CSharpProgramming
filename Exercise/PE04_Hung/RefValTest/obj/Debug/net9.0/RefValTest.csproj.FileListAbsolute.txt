@@ -1,0 +1,14 @@
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\bin\Debug\net9.0\RefValTest.exe
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\bin\Debug\net9.0\RefValTest.deps.json
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\bin\Debug\net9.0\RefValTest.runtimeconfig.json
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\bin\Debug\net9.0\RefValTest.dll
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\bin\Debug\net9.0\RefValTest.pdb
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\obj\Debug\net9.0\RefValTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\obj\Debug\net9.0\RefValTest.AssemblyInfoInputs.cache
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\obj\Debug\net9.0\RefValTest.AssemblyInfo.cs
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\obj\Debug\net9.0\RefValTest.csproj.CoreCompileInputs.cache
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\obj\Debug\net9.0\RefValTest.dll
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\obj\Debug\net9.0\refint\RefValTest.dll
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\obj\Debug\net9.0\RefValTest.pdb
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\obj\Debug\net9.0\RefValTest.genruntimeconfig.cache
+C:\Users\maiya\Downloads\CIS132\Exercise\PE04\RefValTest\obj\Debug\net9.0\ref\RefValTest.dll

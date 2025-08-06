@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\bin\Debug\net9.0\TimeSpanTest1.exe
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\bin\Debug\net9.0\TimeSpanTest1.deps.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\bin\Debug\net9.0\TimeSpanTest1.runtimeconfig.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\bin\Debug\net9.0\TimeSpanTest1.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\bin\Debug\net9.0\TimeSpanTest1.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\obj\Debug\net9.0\TimeSpanTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\obj\Debug\net9.0\TimeSpanTest1.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\obj\Debug\net9.0\TimeSpanTest1.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\obj\Debug\net9.0\TimeSpanTest1.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\obj\Debug\net9.0\TimeSpanTest1.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\obj\Debug\net9.0\refint\TimeSpanTest1.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\obj\Debug\net9.0\TimeSpanTest1.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\obj\Debug\net9.0\TimeSpanTest1.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE07_Hung\TimeSpanTest1\obj\Debug\net9.0\ref\TimeSpanTest1.dll

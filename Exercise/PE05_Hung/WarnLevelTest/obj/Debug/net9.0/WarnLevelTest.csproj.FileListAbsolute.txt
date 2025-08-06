@@ -1,0 +1,14 @@
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\bin\Debug\net9.0\WarnLevelTest.exe
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\bin\Debug\net9.0\WarnLevelTest.deps.json
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\bin\Debug\net9.0\WarnLevelTest.runtimeconfig.json
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\bin\Debug\net9.0\WarnLevelTest.dll
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\bin\Debug\net9.0\WarnLevelTest.pdb
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\obj\Debug\net9.0\WarnLevelTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\obj\Debug\net9.0\WarnLevelTest.AssemblyInfoInputs.cache
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\obj\Debug\net9.0\WarnLevelTest.AssemblyInfo.cs
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\obj\Debug\net9.0\WarnLevelTest.csproj.CoreCompileInputs.cache
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\obj\Debug\net9.0\WarnLevelTest.dll
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\obj\Debug\net9.0\refint\WarnLevelTest.dll
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\obj\Debug\net9.0\WarnLevelTest.pdb
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\obj\Debug\net9.0\WarnLevelTest.genruntimeconfig.cache
+C:\Users\maiya\Downloads\CIS132\Exercise\PE05_Hung\WarnLevelTest\obj\Debug\net9.0\ref\WarnLevelTest.dll

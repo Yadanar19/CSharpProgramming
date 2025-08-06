@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\bin\Debug\net9.0\DepartmentTest.exe
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\bin\Debug\net9.0\DepartmentTest.deps.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\bin\Debug\net9.0\DepartmentTest.runtimeconfig.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\bin\Debug\net9.0\DepartmentTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\bin\Debug\net9.0\DepartmentTest.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\obj\Debug\net9.0\DepartmentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\obj\Debug\net9.0\DepartmentTest.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\obj\Debug\net9.0\DepartmentTest.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\obj\Debug\net9.0\DepartmentTest.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\obj\Debug\net9.0\DepartmentTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\obj\Debug\net9.0\refint\DepartmentTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\obj\Debug\net9.0\DepartmentTest.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\obj\Debug\net9.0\DepartmentTest.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\DepartmentTest\obj\Debug\net9.0\ref\DepartmentTest.dll

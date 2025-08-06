@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\bin\Debug\net9.0\SwapTest.exe
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\bin\Debug\net9.0\SwapTest.deps.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\bin\Debug\net9.0\SwapTest.runtimeconfig.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\bin\Debug\net9.0\SwapTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\bin\Debug\net9.0\SwapTest.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\obj\Debug\net9.0\SwapTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\obj\Debug\net9.0\SwapTest.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\obj\Debug\net9.0\SwapTest.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\obj\Debug\net9.0\SwapTest.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\obj\Debug\net9.0\SwapTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\obj\Debug\net9.0\refint\SwapTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\obj\Debug\net9.0\SwapTest.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\obj\Debug\net9.0\SwapTest.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE10_Hung\SwapTest\obj\Debug\net9.0\ref\SwapTest.dll

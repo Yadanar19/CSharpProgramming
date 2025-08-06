@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\bin\Debug\net9.0\Challenge.exe
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\bin\Debug\net9.0\Challenge.deps.json
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\bin\Debug\net9.0\Challenge.runtimeconfig.json
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\bin\Debug\net9.0\Challenge.dll
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\bin\Debug\net9.0\Challenge.pdb
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\obj\Debug\net9.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\obj\Debug\net9.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\obj\Debug\net9.0\Challenge.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\obj\Debug\net9.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\obj\Debug\net9.0\Challenge.dll
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\obj\Debug\net9.0\refint\Challenge.dll
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\obj\Debug\net9.0\Challenge.pdb
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\obj\Debug\net9.0\Challenge.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\Challenge\obj\Debug\net9.0\ref\Challenge.dll

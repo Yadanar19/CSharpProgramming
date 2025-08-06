@@ -1,0 +1,14 @@
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\bin\Debug\net9.0\Conditional-Statements.exe
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\bin\Debug\net9.0\Conditional-Statements.deps.json
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\bin\Debug\net9.0\Conditional-Statements.runtimeconfig.json
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\bin\Debug\net9.0\Conditional-Statements.dll
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\bin\Debug\net9.0\Conditional-Statements.pdb
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\obj\Debug\net9.0\Conditional-Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\obj\Debug\net9.0\Conditional-Statements.AssemblyInfoInputs.cache
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\obj\Debug\net9.0\Conditional-Statements.AssemblyInfo.cs
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\obj\Debug\net9.0\Conditional-Statements.csproj.CoreCompileInputs.cache
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\obj\Debug\net9.0\Conditional-Statements.dll
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\obj\Debug\net9.0\refint\Conditional-Statements.dll
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\obj\Debug\net9.0\Conditional-Statements.pdb
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\obj\Debug\net9.0\Conditional-Statements.genruntimeconfig.cache
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS05_Hung\Conditional-Statements\obj\Debug\net9.0\ref\Conditional-Statements.dll

@@ -1,0 +1,14 @@
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\bin\Debug\net9.0\String.exe
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\bin\Debug\net9.0\String.deps.json
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\bin\Debug\net9.0\String.runtimeconfig.json
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\bin\Debug\net9.0\String.dll
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\bin\Debug\net9.0\String.pdb
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\obj\Debug\net9.0\String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\obj\Debug\net9.0\String.AssemblyInfoInputs.cache
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\obj\Debug\net9.0\String.AssemblyInfo.cs
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\obj\Debug\net9.0\String.csproj.CoreCompileInputs.cache
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\obj\Debug\net9.0\String.dll
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\obj\Debug\net9.0\refint\String.dll
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\obj\Debug\net9.0\String.pdb
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\obj\Debug\net9.0\String.genruntimeconfig.cache
+C:\Users\maiya\Downloads\CIS132\Hands-On Instruction\HOS06A_Hung\String\obj\Debug\net9.0\ref\String.dll

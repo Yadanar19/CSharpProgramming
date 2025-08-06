@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\bin\Debug\net9.0\Modify.exe
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\bin\Debug\net9.0\Modify.deps.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\bin\Debug\net9.0\Modify.runtimeconfig.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\bin\Debug\net9.0\Modify.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\bin\Debug\net9.0\Modify.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\obj\Debug\net9.0\Modify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\obj\Debug\net9.0\Modify.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\obj\Debug\net9.0\Modify.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\obj\Debug\net9.0\Modify.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\obj\Debug\net9.0\Modify.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\obj\Debug\net9.0\refint\Modify.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\obj\Debug\net9.0\Modify.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\obj\Debug\net9.0\Modify.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE08_Hung\Modify\obj\Debug\net9.0\ref\Modify.dll

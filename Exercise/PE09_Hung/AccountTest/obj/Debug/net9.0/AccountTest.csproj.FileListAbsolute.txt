@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\bin\Debug\net9.0\AccountTest.exe
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\bin\Debug\net9.0\AccountTest.deps.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\bin\Debug\net9.0\AccountTest.runtimeconfig.json
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\bin\Debug\net9.0\AccountTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\bin\Debug\net9.0\AccountTest.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\obj\Debug\net9.0\AccountTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\obj\Debug\net9.0\AccountTest.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\obj\Debug\net9.0\AccountTest.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\obj\Debug\net9.0\AccountTest.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\obj\Debug\net9.0\AccountTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\obj\Debug\net9.0\refint\AccountTest.dll
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\obj\Debug\net9.0\AccountTest.pdb
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\obj\Debug\net9.0\AccountTest.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\CIS132\Exercise\PE09_Hung\AccountTest\obj\Debug\net9.0\ref\AccountTest.dll

@@ -1,0 +1,14 @@
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\bin\Debug\net9.0\OtherData.exe
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\bin\Debug\net9.0\OtherData.deps.json
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\bin\Debug\net9.0\OtherData.runtimeconfig.json
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\bin\Debug\net9.0\OtherData.dll
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\bin\Debug\net9.0\OtherData.pdb
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\obj\Debug\net9.0\OtherData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\obj\Debug\net9.0\OtherData.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\obj\Debug\net9.0\OtherData.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\obj\Debug\net9.0\OtherData.csproj.CoreCompileInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\obj\Debug\net9.0\OtherData.dll
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\obj\Debug\net9.0\refint\OtherData.dll
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\obj\Debug\net9.0\OtherData.pdb
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\obj\Debug\net9.0\OtherData.genruntimeconfig.cache
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS10_Hung\OtherData\obj\Debug\net9.0\ref\OtherData.dll

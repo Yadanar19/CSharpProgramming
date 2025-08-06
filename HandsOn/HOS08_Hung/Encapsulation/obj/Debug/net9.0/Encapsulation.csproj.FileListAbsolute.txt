@@ -1,0 +1,4 @@
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS08_Hung\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS08_Hung\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS08_Hung\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\Users\maiya\OneDrive\CIS132\Hands-On Instruction\HOS08_Hung\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
